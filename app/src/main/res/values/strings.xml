@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">Business Growth</string>
+    <string name="bahan">Daftar Bahan : </string>
+    <string name="steps">Langkah-langkah : </string>
+
+    <string-array name="title_resep">
+        <item>Invest in a CRM</item>
+        <item>Leverage marketing automation</item>
+        <item>Automate processes</item>
+        <item>Focus on the customer experience</item>
+        <item>Hire top talent</item>
+        <item>Deliver great customer support</item>
+        <item>Get aggressive with social media</item>
+        <item>Provide product training to your employees</item>
+        <item>Write a blog</item>
+        <item>Grow your email list</item>
+        <item>Make it easy to subscribe to your email list</item>
+        <item>Make customer satisfaction a priority</item>
+        <item>Generate a positive work culture</item>
+        <item>Know your customers</item>
+        <item>Provide onboarding for new customers</item>
+        <item>Engage in corporate social responsibility tactics</item>
+        <item>Develop a brand style guide</item>
+        <item>Create vision and mission statements</item>
+        <item>Focus on what sets you apart from the competition</item>
+        <item>Develop messaging documents</item>
+        <item>Use service level agreements</item>
+        <item>Offer multiple support channels</item>
+        <item>Define the customer journey</item>
+        <item>Create content that aligns with your sales funnel</item>
+        <item>Personalize your interactions</item>
+        <item>Send an email newsletter</item>
+        <item>Generate customer testimonials</item>
+        <item>Engage with industry influencers</item>
+        <item>Nurture your brand advocates</item>
+        <item>Speak about benefits rather than features</item>
+        <item>Provide user guides and training videos</item>
+
+    </string-array>
+
+    +
+    <string-array name="Deskripsi_resep">
+        <item>dhaivat</item>
+        <item>dhaivat</item>
+        <item>dhaivat</item>
+        <item>dhaivat</item>
+        <item>dhaivat</item>
+    </string-array>
+
+
+    <string-array name="detail_resep">
+        <item>Small businesses need a customer relationship management (CRM) system to streamline contact management.\n\n A solid CRM houses loads of data about your customers, allowing you to maintain insight into their interests, needs, personal information, and so on.\n\n It’s difficult to compete in today’s highly competitive business landscape without a CRM in place.\n\n</item>
+        <item>Marketing automation is another piece of technology you should invest in if you want to accelerate growth.\n\n It allows you to send marketing emails, build landing pages for lead generation, score leads as they move towards conversion, and much more.\n\n And if you use an all-in-one CRM, you’ll have marketing automation already built into your system.\n\n</item>
+        <item>Small businesses need to be as efficient as possible with limited resources.\n\n You can automate tons of processes that would otherwise be done manually with the right technology—such as CRM and marketing automation.\n\n
+
+For example, you can automate data entry by using forms to automatically capture prospect data.\n\n Automation frees up time that you can spend on higher-value tasks such as forming your growth strategy.\n\n</item>
+        <item>The customer experience is set to become the most important variable in consumers’ buying decisions.\n\n It will soon overtake price and product as the key driver of customers’ purchase choices.\n\n Do everything you can to deliver a world-class customer experience.\n\n
+
+Put yourself in your customers’ shoes and ask yourself how you would like to be treated.\n\n Then go out of your way to treat your customers in that same way.\n\n</item>
+        <item>It’s worth the investment and extra money you’ll spend to hire top talent.\n\n It’s an investment in the future of your business.\n\n Hiring the best employees will ensure they produce the best results for your company.\n\n It will also positively affect the customer experience.\n\n
+
+So, don’t skimp and try to save by hiring people without the appropriate experience just because it saves you money.\n\n It will cost you more money in the long run.\n\n</item>
+        <item>It’s crucial that customers can contact you easily when they have an issue and need support.\n\n Ensure your customer support team knows your product well enough to resolve issues on the first try.\n\n And make it a priority to respond as quickly as possible when they reach out.\n\n Delivering great customer support is an incredibly important small business idea.\n\n</item>
+        <item>You should create a company page on various social media sites.\n\n The most important ones for many businesses are Facebook, LinkedIn, and Twitter.\n\n Post daily and share news, new content, and other helpful information that will engage your audience.\n\n You’ll be surprised by how much traffic a strong social media presence will drive to your website.\n\n</item>
+        <item>Your employees need to know your product inside and out.\n\n They need to be able to confidently answer product-related questions when they speak to a customer or prospect.\n\n Otherwise, prospects and customers will lose trust in your ability to support them and deliver a great customer experience.\n\n</item>
+        <item>Another important small business idea for growth is to create a blog.\n\n Write about topics that will educate your audience.\n\n Provide tips and tricks that will help them work smarter.\n\n Educate them on industry trends so they can be more competitive.\n\n And always be sure to share your blogs on social media.\n\n</item>
+        <item>It’s essential that you constantly grow your email list.\n\n You always need new leads in your database.\n\n You can’t grow your business without finding new leads and marketing to them.\n\n Learn best practices for growing your email list.\n\n</item>
+        <item>Put a form on your website homepage that allows people to subscribe to your list easily.\n\n Put it on other high-traffic pages as well.\n\n You can also include a link to your sign-up form in your email signature and on your social media sites so that people can find it in multiple locations.\n\n</item>
+        <item>Satisfied customers stay longer and provide a recurring revenue stream that helps stably grow your business.\n\n They also speak positively about your brand to others, which amounts to word-of-mouth advertising.\n\n Focus on improving the customer experience, as mentioned above, and you’ll maintain high levels of customer satisfaction.\n\n</item>
+        <item>Happy employees work harder, have higher morale, and stick around longer.\n\n Employee turnover has a horrible effect on your bottom line.\n\n Keep them happy by asking them how you could improve the workplace.\n\n Implement their feedback, tell them about it, and they’ll see that you truly care about their wellbeing.\n\n</item>
+        <item>Your CRM stores loads of personal and professional data about your contacts.\n\n With this data, you can maintain deep insight into their interests, pain points, past buying behavior, and more.\n\n
+Your relationship with your customers should be a partnership.\n\n Getting to know who they are and what they need will help you convey that to them, which will increase customer satisfaction and help you grow.\n\n</item>
+        <item>You need to train new customers on how to use your product.\n\n The extent of that training depends on your product.\n\n But if customers can’t successfully use your product, they will leave you for a competitor.\n\n</item>
+        <item>Many miss this small business idea, but its key to growth.\n\n Corporate social responsibility (CSR) is increasingly important.\n\n It helps you develop a positive reputation as a company that gives back to the community it serves.\n\n People increasingly take that into account when comparing vendors.\n\n Get out and volunteer, donate to charities, and tell your audience about it.\n\n</item>
+        <item>Branding is one of the most important things for business growth.\n\n You need to use consistent branding so that consumers recognize your brand when they see it.\n\n Read about how to create a brand style guide.\n\n</item>
+        <item>Your vision statement is where you want to be in the future.\n\n Your mission statement is how you plan to get there.\n\n Create these documents and share them with all your employees so that everyone understands and is working towards the same goals.\n\n</item>
+        <item>Create a value proposition that highlights the unique value that your product brings to the market.\n\n Research your competitors and identify areas that you excel in, which they don’t.\n\n Then focus on those areas in your lead generation outreach, email marketing, social media posts, and any other customer interactions.\n\n</item>
+        <item>How do your employees talk about your company and your product? It’s important that everyone speaks in the same way when interacting with your audience.\n\n Consistent messaging ensures that you don’t create confusion in the market.\n\n
+Create messaging documents with talking points and share them with all your employees so that everyone describes your business and product in the same way.\n\n</item>
+        <item>Service level agreements outline the type of service you will deliver to your customers.\n\n They are contracts that you must adhere to.\n\n Using them gives customers peace of mind as it tells them what they can expect.\n\n
+
+You can also use service level agreements to hold employees accountable for meeting the required level of service you have committed to.\n\n It’s a small business idea that will generate trust among your customers.\n\n</item>
+        <item>Customers need to be able to reach you on the channel that they prefer.\n\n Offer customer support via email, telephone, social media, and online live chat.\n\n Your customers vary, and so do their preferences.\n\n Offering multiple support channels ensures you are catering to the unique needs of every customer.\n\n</item>
+        <item>Map out the stages of your sales funnel.\n\n Understand what prospects need at each stage to move to the next.\n\n Monitor leads as they pass through those stages, so you can identify bottlenecks when they arise.\n\n This helps you keep leads flowing through the funnel on their way to becoming customers.\n\n</item>
+        <item>First, you need to define the customer journey and the associated stages of the sales funnel, as mentioned above.\n\n Then, you will know which type of content is needed at each stage to move leads on.\n\n
+
+You wouldn’t send a new lead a how-to guide.\n\n And you wouldn’t send a customer an introductory one-sheet that tells them about your business.\n\n Mapping content to the sales funnel allows you to deliver the right content at the right time and increases engagement.\n\n</item>
+        <item>You can personalize your interactions with prospects and customers when you store so much data about them in your CRM.\n\n You can greet them by name when they call as you’ll have that information right in front of you.\n\n You can personalize your marketing so that it’s more relevant to them.\n\n Personalizing your interactions will help you close more deals and grow your business.\n\n</item>
+        <item>Sending email newsletters is a great small business idea.\n\n It’s a way to keep customers informed about new developments at your company.\n\n Send them periodically to alert customers about new products, special offers, new content, and more.\n\n Keeping customers in the loop will keep them satisfied.\n\n</item>
+        <item>Prospects will trust the word of your customers more than they will trust you when you tell them how great your product is.\n\n Find satisfied customers and ask for testimonials.\n\n Then post them on your website and share them on social media.\n\n It’s a great way to drive more conversions and grow your business.\n\n</item>
+        <item>Industry influencers are people with a high profile in your industry that others look to for advice.\n\n They normally have huge followings on social media.\n\n Try to engage with them so they will share your content or mention you in their posts.\n\n It will put your brand name in front of loads of new potential customers.\n\n</item>
+        <item>Brand advocates are customers, employees, or anyone else who advocates for your brand.\n\n This normally takes place on social media.\n\n Your customer may post about how great your product is.\n\n That’s a brand advocate, and when you find them, you need to nurture them.\n\n You can be alerted when someone mentions you on social media by using social listening tools.\n\n</item>
+        <item>This is a great small business idea that many fail to recognize.\n\n People want to hear how your product will benefit them and make their lives easier.\n\n They don’t want to hear a technical explanation of the feature that will deliver that benefit.\n\n Ensure your whole team knows how to speak in terms of benefits and doesn’t overly focus on features.\n\n</item>
+        <item>User guides and training videos help ensure your customers can use your product to the fullest.\n\n That results in more satisfied customers, which in turn results in increased brand awareness.\n\n These things are essential for small business growth.\n\n</item>
+
+
+    </string-array>
+
+
+    <string-array name="step_resep">
+        <item>  This is the first job I recommend to anyone who wants to make money online. Micro jobs are doing short task like reading emails, completing surveys, watching videos, writing comments etc.\n
+
+Here are some of the most popular sites I can recommend you for doing simple online jobs.\n
+Swagbux – Best site if you are from US, UK, Canada and good for everyone.\n
+ClixSense – One of the great and my most favorite site.\n
+InboxDollars – Again the best site with good earning potential.\n
+BuxPmicro jobs\n
+Neobux\n
+CashCrate\n
+mTurk – One of the best crowdsourcing site. Thousands of people make enough money from this single website
+MicroWorker – Another site like Microworker.</item>
+        <item>  If you want to make big money say above $1000 then blogging is the only simple, safe method that you can start.\nmake money blogging.\n
+
+I have dozens of blogs including MoneyConnexion that give me 7 figure yearly income.\n
+
+Although it may take some time initially, but trust me once you are an expert, there will be nothing like blogging that can give you time freedom and huge income both.\n
+
+Blog is nothing but a website where you write about your favorite topic on regular basis.\n You use some marketing techniques like SEO to get the traffic on your blog.\n
+
+As traffic starts coming, you can monetize your blog with Google AdSense program or affiliate.\n Passion for blogging and a hobby is must.\n
+
+Just check here some of the best resources that will help you to make money from blog.\n
+        </item>
+        <item>  1. tumis bawang putih dan bawang bombay\n
+                2. masukkan jahe dan cabe\n
+                3. masukkan cumi, saus tiram, kecap, garam, merica\n
+                4. Masak sampai cumi empuk\n
+                5. yummy!\n
+                6. Selamat mencoba\n\n
+        </item>
+        <item>  1. tumis bawang putih dan bawang bombay\n
+                2. masukkan cumi, masak hingga cumi matang\n
+                3. masukkan cabe hijau, jamur dan bumbu lainnya. Aduk rata\n
+                4. masukan nanas, minyak wijen\n
+                5. terakhir larutan maizena\n
+                6. yummy!\n</item>
+        <item>  1. didihkan air kaldu, masukan semua bahan kuah\n
+                2. Tumis bawang putih dan bawang bombay\n
+                3. masukan wortel dan jamur kuping\n
+                4. tuangi kuah\n
+                5. masukan kapri dan ati ampela. Masak hingga bumbu meresap\n
+                6. Yummy!\n\n</item>
+    </string-array>
+</resources>
